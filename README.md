@@ -40,10 +40,18 @@ The main technical stack for HayanMind front-end developer is "React". Mobile ap
 <img width="450" src="https://user-images.githubusercontent.com/6203798/125565240-d48f5774-69c6-4963-815d-87a77910ff10.png" />
 </p>
 
-* After you sign in Figma, then you can see the detailed design guideline.
-<p align="center">
-<img width="450" src="https://user-images.githubusercontent.com/6203798/125565329-c6144364-a519-4028-84bc-5786b5d2af40.png" />
-</p>
+* After you sign in Figma, then you can see the detailed design guideline. In addition, you can refer the CSS code on the inspect tab.
+<table align="center">
+  <tr>
+    <td valign="center">
+      <img width="450" src="https://user-images.githubusercontent.com/6203798/125565329-c6144364-a519-4028-84bc-5786b5d2af40.png" />
+    </td>
+    <td valign="center" align="center" width=239>
+      <img width="239" alt="스크린샷 2021-07-14 오후 2 47 16" src="https://user-images.githubusercontent.com/6203798/125576636-9dfb1b81-404d-4d6c-8794-2a782579044a.png">
+      <img width="239" alt="스크린샷 2021-07-14 오후 2 47 28" src="https://user-images.githubusercontent.com/6203798/125576642-a6bc7695-6b5f-4751-b874-f8a770e55496.png">
+    </td>
+  </tr>
+</table>
 
 * You don't have to make it into a responsive design.
 * You don't have to specify a font for the text.
