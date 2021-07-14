@@ -35,19 +35,24 @@ The main technical stack for HayanMind front-end developer is "React". Mobile ap
 ### Design
 * Please look at the following design guide link and reflect the design.
   * [https://www.figma.com/file/T9P3B5qjnTqhWi1Ou5BmIL/HayanMind-FrontEnd-TA](https://www.figma.com/file/T9P3B5qjnTqhWi1Ou5BmIL/HayanMind-FrontEnd-TA)
-
 * You have to sign up Figma. If not, you can't see the detailed design guideline.
+<p align="center">
 <img width="450" src="https://user-images.githubusercontent.com/6203798/125565240-d48f5774-69c6-4963-815d-87a77910ff10.png" />
+</p>
 
 * After you sign in Figma, then you can see the detailed design guideline.
+<p align="center">
 <img width="450" src="https://user-images.githubusercontent.com/6203798/125565329-c6144364-a519-4028-84bc-5786b5d2af40.png" />
+</p>
 
 * You don't have to make it into a responsive design.
 * You don't have to specify a font for the text.
 
 ### Note
 * Please fork this repository into your account.
+<p align="center">
 <img width="410" alt="스크린샷 2021-07-13 오후 10 07 51" src="https://user-images.githubusercontent.com/6203798/125465421-8d3c9d4a-1742-4e17-beef-aedd522e5714.png">
+</p>
 
 * Please make a new branch based on `master`
 * You can start to implement by modifying the `InfiniteScrollList.tsx` file.
@@ -58,7 +63,7 @@ The main technical stack for HayanMind front-end developer is "React". Mobile ap
 ----
 
 ## Assignment #2
-HayanMind encourages code review culture to share knowledge and improve code quality among developers. Therefore, developers should be able to make pull requests well so that the other developers can easily review the code. In this assignment, let's make a pull request like we actually get a review of the code we wrote in assignment 1.
+HayanMind encourages code review culture to share knowledge and improve code quality among developers. Therefore, developers should be able to make pull requests well so that the other developers can easily review the code. In this assignment, let's make a pull request like we actually get a review of the code we wrote in assignment #1.
 ### Requirement
 * Make pull request for assigment #1 on your repository.
 * Please leave a self-review comment reviewing your own code to help reviewers.
