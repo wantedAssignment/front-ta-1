@@ -1,10 +1,8 @@
-# 하얀 마을 기술 과제
+# 하얀 마인드 기술 과제
 
 ### 결과물 (100%)
 
-
 https://user-images.githubusercontent.com/60912642/126983094-cf44089d-55a1-431d-98c6-fbdeb8b14843.mov
-
 
 ### 요구사항
 
